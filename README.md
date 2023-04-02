@@ -18,6 +18,7 @@
   - - ![GCP Compute Engine Web Server Web Site](https://user-images.githubusercontent.com/44722635/229352380-6f8b6979-aaf5-4b13-81a8-44c4866d5c47.png)
   - GCP Database
   - - ![GCP SQL Database PHPMyAdmin](https://user-images.githubusercontent.com/44722635/229352240-a09c154e-3dfb-421e-8edd-a08869f17c71.png)
+  - - [Uploading GCP SQL Database Screen Print.pdf…]()
 4. AWS Hosting Screenshots
   - EC2
   - - ![AWS EC2 Web Server RDP](https://user-images.githubusercontent.com/44722635/229352440-5dce7346-5f22-488b-900d-567181927332.png)
