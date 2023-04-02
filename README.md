@@ -1,6 +1,7 @@
 # CS-466-01-GCP-Implementation
 - The project was to test the server times of cloud computing platforms, I think. I'm moreso uploading this for proof of working in PHP. 
 - View the .PHP files for the code I wrote (second file in details folder)
+- The database structure, primary keys, etc. was set up by my group partner Mason
 ## Screenshots
 1. Web page transaction
   - order screen ![Index Screenshot](https://user-images.githubusercontent.com/44722635/229352112-61f05c99-b9cd-4758-85cd-e0b874b3cf65.png)
