@@ -2,6 +2,7 @@
 - The project was to test the server times of cloud computing platforms, I think. I'm moreso uploading this for proof of working in PHP. 
 - View the .PHP files for the code I wrote (second file in details folder)
 - The database structure, primary keys, etc. was set up by my group partner Mason
+- My chief roles in this project were to make use of cloud computing resources to use as a web hosting service; launch a database servers to store data entered to the website hosted on the cloud computing resources, in that same cloud platform (AWS/Google Cloud Platform); and make the web pages (PHP, HTML, CSS).
 ## Screenshots
 ### 1. Web page transaction
 ####  - order screen ![Index Screenshot](https://user-images.githubusercontent.com/44722635/229352112-61f05c99-b9cd-4758-85cd-e0b874b3cf65.png)
